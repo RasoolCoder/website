@@ -1,0 +1,102 @@
+body{
+    background-image: url(4.png);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.me{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.me:hover{
+    filter: grayscale(100);
+}
+.main{
+    display: block;
+    min-width: 300px;
+    max-width: 600px;
+    height: 250px;
+    border-radius: 15px;
+    background-color: white;
+    opacity: .7;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 10px;
+}
+.aa .aboutme{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    min-width: 50px;
+    max-width: 100px;
+    height: auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.aa{
+    text-decoration: none;
+    color: black;
+}
+.ab .abilities{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    min-width: 50px;
+    max-width: 150px;
+    height: auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.ab{
+    text-decoration: none;
+    color: black;
+}
+.ex .examples{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    min-width: 50px;
+    max-width: 150px;
+    height: auto;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.ex{
+    text-decoration: none;
+    color: black;
+}
+footer{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: right;
+    margin-top: 50px;
+    margin-right: 10px;
+    color: white;
+}
+.foot{
+    text-decoration: none;
+}
